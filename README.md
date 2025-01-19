@@ -1,6 +1,10 @@
 # TOGAG10
 TOGAF Details
 
+## The TOGAF® Certification Portfolio
+<img width="1098" alt="image" src="https://github.com/user-attachments/assets/a1daed36-fa3a-4fdf-a281-83df2eaad095" />
+
+
 Exam - https://certification.opengroup.org/examinations/togaf
 
 <img width="1161" alt="image" src="https://github.com/user-attachments/assets/4061f777-bcb2-4b41-847b-d3d4cfbe9c2b" />
